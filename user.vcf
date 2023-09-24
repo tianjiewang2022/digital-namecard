@@ -7,8 +7,7 @@ ORG:1 Thing Org;
 TITLE:Software Engineer Intern
 EMAIL;type=INTERNET;type=EMAIL;type=pref:tianjiewang668@gmail.com
 TEL;type=TEL;type=VOICE:2063962688
-item1.URL;type=Hello, I'm Sally, a passionate software developer pursuing a Master's degree in Computer Science at NEU in Seattle. With a strong foundation in software development and a desire to deepen my experience, I'm excited to connect and discuss my journey in the world of software.;type=pref:;;https://www.dropbox.com/scl/fo/f5det2vzgrsi6wqzjoid3/h?rlkey=ycd1kmsbfboa7vu7x1ge51cue&dl=0
-item1.X-ABLabel:_$!<Self_Introduction>!$_
+item1.URL;type=pref:RESUME & CV>!$_
 item2.URL;type=pref:https://www.linkedin.com/in/sallytianjiewang/
-item2.X-ABLabel:_$!<HomePage>!$_
+item2.X-ABLabel:_$!<HOMEPAGE>!$_
 END:VCARD

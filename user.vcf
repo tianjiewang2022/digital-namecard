@@ -7,7 +7,8 @@ ORG:1 Thing Org;
 TITLE:Software Engineer Intern
 EMAIL;type=INTERNET;type=EMAIL;type=pref:tianjiewang668@gmail.com
 TEL;type=TEL;type=VOICE:2063962688
-item1.URL;type=pref:RESUME & CV>!$_
+item1.URL;type=pref:https://www.dropbox.com/scl/fo/f5det2vzgrsi6wqzjoid3/h?rlkey=ycd1kmsbfboa7vu7x1ge51cue&dl=0
+item2.X-ABLabel:_$!<Resume & CoverLetter>!$_
 item2.URL;type=pref:https://www.linkedin.com/in/sallytianjiewang/
-item2.X-ABLabel:_$!<HOMEPAGE>!$_
+item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD

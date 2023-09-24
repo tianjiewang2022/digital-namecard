@@ -2,12 +2,12 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:W;SALLY;;;
-FN: Sally  W
+FN: Sally  W   (She / Her)
 ORG:1 Thing Org;
 TITLE:Software Engineer Intern
-EMAIL;type=INTERNET;type=WORK;type=pref:tianjiewang668@gmail.com
-TEL;type=WORK;type=VOICE:2063962688
-item1.ADR;type=WORK;type=pref:;;Remote
+EMAIL;type=INTERNET;type=EMAIL;type=pref:tianjiewang668@gmail.com
+TEL;type=TEL;type=VOICE:2063962688
+item1.ADR;type=SELF_INTRO;type=pref:;;Hello, I'm Sally, a passionate software developer pursuing a Master's degree in Computer Science at NEU in Seattle. With a strong foundation in software development and a desire to deepen my experience, I'm excited to connect and discuss my journey in the world of software!
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.linkedin.com/in/sallytianjiewang/
 item2.X-ABLabel:_$!<HomePage>!$_

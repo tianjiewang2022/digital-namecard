@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-NOTE: Hello, I'm Sally, a passionate software developer pursuing a Master's degree in Computer Science at NEU in Seattle. With a strong foundation in software development and a desire to deepen my experience, I'm excited to connect and discuss my journey in the world of software.
+NOTE: Hello, I'm Sally, a passionate software developer pursuing a Master's degree in Computer Science at NEU in Seattle. With a strong foundation in software development and a desire to deepen my experience, I'm excited to connect and discuss my journey in the world of software! ^_^
 N:W;SALLY;;;
 FN: Sally  W   (She / Her)
 ORG:1 Thing Org;
@@ -16,8 +16,4 @@ item3.URL;type=pref:https://www.dropbox.com/scl/fo/k0wjrzl2ml3huqx4j14ph/h?rlkey
 item3.X-ABLabel:Recommendations from Manager and Mentor
 item4.URL;type=pref:https://www.dropbox.com/scl/fi/elbgbrqdtigh4xnpegn2p/project_demo.MOV?rlkey=vishj0v7puzd5rxhu6shu8vjy&dl=0
 item4.X-ABLabel:Project Video Demo
-
-
-
-
 END:VCARD

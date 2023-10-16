@@ -266,8 +266,3 @@ th {
 	border: 2px solid purple;
 	/* Add a border to the first image */
 }
-
-.additional-info img:second-child {
-	border: 2px solid rgb(205, 31, 239);
-	/* Add a border to the first image */
-}

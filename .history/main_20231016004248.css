@@ -132,10 +132,6 @@ img.profile-pic {
 
 .secondary-info {
 	height: 8%;
-	padding: 20px;
-	/* Add padding to create space around the content */
-	text-align: center;
-	/* Center the content horizontally */
 }
 
 .bg-color-grey {

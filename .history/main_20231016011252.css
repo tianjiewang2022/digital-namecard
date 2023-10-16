@@ -261,7 +261,7 @@ th {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	/* Use flexbox to arrange the images horizontally */
-	gap: 5px;
+	justify-content: space-between;
 	/* Create space between the images */
 	align-items: center;
 	/* Vertically center the images within the container */

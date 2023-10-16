@@ -238,30 +238,3 @@ td {
 th {
 	background-color: #f2f2f2;
 }
-
-/* Add a grid layout for the secondary-info section */
-.additional-info {
-	height: auto;
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	/* Create a 2-column grid */
-	grid-gap: 10px;
-	/* Add some spacing between the images */
-}
-
-/* Apply a transition effect to the images */
-.additional-info img {
-	transition: transform 0.3s ease-in-out;
-}
-
-/* Add hover effect for images */
-.additional-info img:hover {
-	transform: scale(1.1);
-	/* Enlarge the image on hover */
-}
-
-/* Style the first-child image */
-.additional-info img:first-child {
-	border: 2px solid #219653;
-	/* Add a border to the first image */
-}

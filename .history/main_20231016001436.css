@@ -248,22 +248,4 @@ img.profile-pic {
 		/* Add some spacing between grid items */
 		align-items: center;
 	}
-
-	/* Add this CSS to your main.css or in a <style> element in the HTML */
-	.image-container {
-		display: flex;
-		/* Use flexbox to arrange the images horizontally */
-		justify-content: space-between;
-		/* Create space between the images */
-		align-items: center;
-		/* Vertically center the images within the container */
-	}
-
-	.image-container img {
-		max-width: 100%;
-		/* Ensure images don't exceed their container's width */
-		height: auto;
-		/* Maintain the aspect ratio of the images */
-	}
-
 }

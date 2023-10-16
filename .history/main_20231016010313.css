@@ -3,11 +3,7 @@ body {
 	height: 100%;
 	width: 100%;
 	margin: 0;
-	display: flex;
-	/* Change justify-content to display */
 	justify-content: center;
-	align-items: center;
-	/* Center content vertically */
 }
 
 section {

@@ -261,7 +261,7 @@ th {
 }
 
 .image-container img {
-	max-width: 100%;
+	max-width: 40%;
 	/* Ensure images don't exceed their container's width */
 	height: auto;
 	/* Maintain the aspect ratio of the images */

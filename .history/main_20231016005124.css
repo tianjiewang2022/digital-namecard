@@ -252,7 +252,7 @@ th {
 
 /* Add this CSS to your main.css or in a <style> element in the HTML */
 .image-container {
-	display: inline-flexbox;
+	display: flex;
 	/* Use flexbox to arrange the images horizontally */
 	justify-content: space-between;
 	/* Create space between the images */

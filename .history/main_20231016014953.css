@@ -207,14 +207,14 @@ button,
 
 
 /* CSS for the Submit button */
-/* button {
+button {
 	width: 40%;
 	background: linear-gradient(to bottom, #27ae60, #2c3e50);
 	color: white;
 	border: none;
 	padding: 10px;
 	cursor: pointer;
-} */
+}
 
 /* CSS for button hover effect */
 button:hover {

@@ -263,11 +263,13 @@ th {
 
 /* Style the first-child image */
 .additional-info img:first-child {
+
 	/* Add a border to the first image */
 	grid-column: 1;
 }
 
 .additional-info img:nth-child(2) {
+
 	/* Add a border to the first image */
 	grid-column: 2;
 }

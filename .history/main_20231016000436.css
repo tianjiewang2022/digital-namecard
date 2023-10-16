@@ -244,7 +244,7 @@ img.profile-pic {
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
 		/* Two columns with equal width */
-		gap: 5px;
+		gap: 10px;
 		/* Add some spacing between grid items */
 		align-items: center;
 	}

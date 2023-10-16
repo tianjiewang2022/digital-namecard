@@ -258,6 +258,13 @@ th {
 	/* Vertically center the images within the container */
 }
 
+.recommendation-image {
+	max-width: 40%;
+	/* Ensure images don't exceed their container's width */
+	height: auto;
+	/* Maintain the aspect ratio of the images */
+}
+
 /* Add these selectors to target img1 and img2 */
 .image-container img:nth-child(1) {
 	grid-column: 1 / span 1;

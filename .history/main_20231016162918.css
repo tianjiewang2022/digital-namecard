@@ -265,11 +265,9 @@ th {
 .additional-info img:first-child {
 	border: 2px solid purple;
 	/* Add a border to the first image */
-	grid-column: 1;
 }
 
-.additional-info img:nth-child(2) {
+.additional-info img:second-child {
 	border: 2px solid rgb(205, 31, 239);
 	/* Add a border to the first image */
-	grid-column: 2;
 }

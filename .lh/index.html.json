@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 5,
+            "activePatchIndex": 6,
             "patches": [
                 {
                     "date": 1697419306296,
@@ -28,6 +28,10 @@
                 {
                     "date": 1697427702578,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -169,9 +169,9 @@\n \t\t\t\t</div>\n \t\t\t</a>\n \t\t</section>\n \t\t<section>\n-\t\t\t<div class=\"form-container\">\n+\t\t\t<div  class=\"bg-color-white secondary-info\">\n \t\t\t\t<form>\n \t\t\t\t\t<label for=\"name\">Name</label>\n \t\t\t\t\t<input type=\"text\" id=\"name\" name=\"name\" placeholder=\"Your Name\">\n \n"
+                },
+                {
+                    "date": 1697427821319,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -168,10 +168,10 @@\n \t\t\t\t\t</div>\n \t\t\t\t</div>\n \t\t\t</a>\n \t\t</section>\n-\t\t<section>\n-\t\t\t<div class=\"bg-color-white secondary-info\">\n+\t\t<section class=\"bg-color-white secondary-info\">\n+\t\t\t\n \t\t\t\t<form>\n \t\t\t\t\t<label for=\"name\">Name</label>\n \t\t\t\t\t<input type=\"text\" id=\"name\" name=\"name\" placeholder=\"Your Name\">\n \n@@ -182,9 +182,9 @@\n \t\t\t\t\t<input type=\"text\" id=\"message\" name=\"message\" placeholder=\"Your Password\">\n \n \t\t\t\t\t<button type=\"submit\">Submit</button>\n \t\t\t\t</form>\n-\t\t\t</div>\n+\t\t\t\n \t\t</section>\n \n \t\t<section class=\"bg-color-white bottom\">\n \t\t\t<div class=\"container\">\n"
                 }
             ],
             "date": 1697419306296,

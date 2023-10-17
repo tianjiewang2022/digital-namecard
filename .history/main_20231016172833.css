@@ -251,10 +251,10 @@ th {
 .additional-info {
 	height: auto;
 	display: grid;
-	grid-template-areas: 'img1st img2nd';
-	/* grid-template-columns: img:first-child img:nth-child(2); */
-	/* Create a 2-column grid */
-	grid-gap: 10px;
+	grid-template-areas: 'img1st img2nd'
+		/* grid-template-columns: img:first-child img:nth-child(2); */
+		/* Create a 2-column grid */
+		grid-gap: 10px;
 
 	/* Add some spacing between the images */
 }

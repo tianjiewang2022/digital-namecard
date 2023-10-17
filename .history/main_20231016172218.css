@@ -242,23 +242,27 @@ th {
 /* Add a grid layout for the secondary-info section */
 .additional-info {
 	height: auto;
-	display: inline-grid;
-	grid-template-columns: auto auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/* grid-template-columns: img:first-child img:nth-child(2); */
 	/* Create a 2-column grid */
-	grid-gap: 5px;
+	/* grid-gap: 10px; */
+
 	/* Add some spacing between the images */
 }
 
 /* Apply a transition effect to the images */
 .additional-info img {
 	transition: transform 0.3s ease-in-out;
+	margin: 10px;
 }
 
 /* Add hover effect for images */
 .additional-info img:hover {
 	transform: scale(1.1);
-	/* border: 2px solid #219653; */
-	border: 2px solid pink;
+	border: 2px solid #219653;
+	/* border: 2px solid pink; */
 	/* Enlarge the image on hover */
 }
 

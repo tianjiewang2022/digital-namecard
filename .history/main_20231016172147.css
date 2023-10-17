@@ -243,12 +243,11 @@ th {
 .additional-info {
 	height: auto;
 	display: flex;
-	align-items: center;
-	justify-content: center;
 	/* grid-template-columns: img:first-child img:nth-child(2); */
 	/* Create a 2-column grid */
 	/* grid-gap: 10px; */
-
+	align-items: center;
+	justify-content: center;
 	/* Add some spacing between the images */
 }
 

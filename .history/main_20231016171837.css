@@ -242,20 +242,16 @@ th {
 /* Add a grid layout for the secondary-info section */
 .additional-info {
 	height: auto;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	/* grid-template-columns: img:first-child img:nth-child(2); */
+	display: inline-grid;
+	grid-template-columns: auto auto;
 	/* Create a 2-column grid */
-	/* grid-gap: 10px; */
-
+	grid-gap: 10px;
 	/* Add some spacing between the images */
 }
 
 /* Apply a transition effect to the images */
 .additional-info img {
 	transition: transform 0.3s ease-in-out;
-	margin: 10px;
 }
 
 /* Add hover effect for images */

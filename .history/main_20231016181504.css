@@ -269,5 +269,4 @@ th {
 
 .additional-info img:nth-child(2) {
 	/* Add a border to the 2nd image */
-	grid-column: 2;
 }

@@ -243,7 +243,7 @@ th {
 .additional-info {
 	height: auto;
 	display: inline-grid;
-	grid-template-columns: auto auto;
+	grid-template-columns: repeat(2, 1fr);
 	/* Create a 2-column grid */
 	grid-gap: 5px;
 	/* Add some spacing between the images */
@@ -257,8 +257,7 @@ th {
 /* Add hover effect for images */
 .additional-info img:hover {
 	transform: scale(1.1);
-	/* border: 2px solid #219653; */
-	border: 2px solid pink;
+	border: 2px solid #219653;
 	/* Enlarge the image on hover */
 }
 

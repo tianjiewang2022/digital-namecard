@@ -257,8 +257,7 @@ th {
 /* Add hover effect for images */
 .additional-info img:hover {
 	transform: scale(1.1);
-	/* border: 2px solid #219653; */
-	border: 2px solid pink;
+	border: 2px solid #219653;
 	/* Enlarge the image on hover */
 }
 
